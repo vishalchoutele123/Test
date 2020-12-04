@@ -12,4 +12,6 @@ This is 4th line.
 
 
 This will advance master branch .
+
+This is line from feature branch. 
  
