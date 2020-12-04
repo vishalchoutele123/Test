@@ -22,4 +22,5 @@ This is another line in README from the feature branch
 This is made on feature branch . 
 This is from bug fix branch. 
 
-This is from bug fix branc 
+This is newly added from bug-fix branch
+
